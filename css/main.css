@@ -171,10 +171,11 @@ nav ul li {
 	width:100%;
 	height: 350px;
 	background-size: cover;
-	color:steelblue;
 }
 .hero h1 {
-	margin:120px 0px 40px 0px;
+	color:whitesmoke;
+	margin:60px 0px 40px 0px;
+	padding-top:40px;
 }
 .square {
   position: relative;
