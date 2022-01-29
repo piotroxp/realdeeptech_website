@@ -171,6 +171,7 @@ nav ul li {
 	width:100%;
 	height: 350px;
 	background-size: cover;
+	color:whitesmoke;
 }
 .hero h1 {
 	color:whitesmoke;
@@ -523,7 +524,7 @@ a.button2:hover {
     padding: 25px 35px;
 }
 .hero h1 {
-    margin: 250px 0px 40px 0px;
+    margin: 120px 0px 40px 0px;
 		font-size: 75px;
 }
 	h2 {
