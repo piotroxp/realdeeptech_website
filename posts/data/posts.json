@@ -1,0 +1,30 @@
+{
+    "posts": [
+        {
+            "title": "Welcome to Blogasec",  
+            "tags": ["security", "content"],  
+            "cover": "logo.jpg",  
+            "des": "Where do we go from here.",
+            "author":"piti",
+            "date": [  
+                2021, 
+                11,  
+                25  
+            ],
+            "id": "blog1"  
+        },
+        {
+            "title": "Blogasec security overview",  
+            "tags": ["overview", "security"],  
+            "cover": "images/security.jpg",  
+            "des": "A very deep overview of security topics",
+            "date": [  
+                2021, 
+                11,  
+                25  
+            ],
+            "id": "blog2",
+            "author": "larwi"
+        }
+    ]
+}

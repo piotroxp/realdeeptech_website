@@ -1,0 +1,30 @@
+{
+    "page": {
+        "description": "no one is safe",
+        "name": "Blogasec",
+        "blogTitle": "Blogasec - curated security news",
+        "blogStartYear": 2021
+    },
+    "config": [
+        {
+            "username": "piti",
+            "avatarPath": "authors/piti.jpg"
+        },
+        {
+            "username": "larwi",
+            "avatarPath": "authors/larwi.jpg"
+        }
+    ],
+    "contacts": [
+        {
+            "name": "email",
+            "value": "contact.piotr.slupski@pryzmat.pl",
+            "link": "mailto:contact.piotr.slupski@pryzmat.pl"
+        },
+        {
+            "name": "email",
+            "value": "contact.michal.slupski@pryzmat.pl",
+            "link": "mailto:contact.michal.slupski@pryzmat.pl"
+        }
+    ]
+}
